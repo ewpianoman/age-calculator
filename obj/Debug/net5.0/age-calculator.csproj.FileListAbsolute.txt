@@ -1,0 +1,15 @@
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/bin/Debug/net5.0/age-calculator.deps.json
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/bin/Debug/net5.0/age-calculator.runtimeconfig.json
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/bin/Debug/net5.0/age-calculator.runtimeconfig.dev.json
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/bin/Debug/net5.0/age-calculator.dll
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/bin/Debug/net5.0/ref/age-calculator.dll
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/bin/Debug/net5.0/age-calculator.pdb
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.csproj.AssemblyReference.cache
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.AssemblyInfoInputs.cache
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.AssemblyInfo.cs
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.csproj.CoreCompileInputs.cache
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.dll
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/ref/age-calculator.dll
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.pdb
+/Users/ewpiano/Documents/Coding/csharp/age-calculator/age-calculator/obj/Debug/net5.0/age-calculator.genruntimeconfig.cache
